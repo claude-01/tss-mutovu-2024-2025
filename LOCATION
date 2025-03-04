@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOCATION</title>
+<style type="text/css">
+	p{
+		background-color: white;
+	}
+input{
+	height: 100px;
+	width: 400px;
+	font-size: 30px;
+	background-color: red;
+	border-radius: 30px;
+	stroke: 40px;
+}
+
+body{
+	background-color: red;
+}
+input{
+	background:linear-gradient(to left,red,white,black);
+}
+
+img{
+	width: 600px
+}
+h1{
+	color: white;
+}
+#n{
+	color: black;
+}
+
+#m{
+	color: black;
+}
+#w{
+	color: black;
+}
+#mu{
+	color: black;
+}
+#lo{
+	color: white;
+	background:linear-gradient(to left,white,black,white);
+
+}
+
+</style>
+
+
+</head>
+<body><CENTER>
+<p><h1>MAP OF RWANDA</h1></p>
+<img src="images (4).JPG">
+<p><h1 id="lo"> FOLLOW &nbsp&nbsp   LOCATION&nbsp&nbsp OF &nbsp&nbspMUTOVU &nbsp&nbspTECHNICAL&nbsp&nbsp SECONDARY&nbsp&nbsp SCHOOL</h1></p><br><br>
+<strong><p><h1 id="n"> DISTRICT</h1></p></strong>
+         <p><h1>. NYARUGURU</h1></p>
+<p><h1 id="m"> SECTOR</h1></p>
+         <p><h1  >. MUGANZA</h1></p>
+<p><h1 id="w"> CELL</h1></p>
+         <p><h1>.WAKIZA</h1></p>
+<p><h1 id="mu"> VILLAGE </h1></p>
+         <p><h1>. MUKONGORO</h1></p><br>
+</a><br><br><br><br>
+<a href="manzi.html"><input type="button" value="back" id="df">
+</CENTER>
+</body>
+</html>
